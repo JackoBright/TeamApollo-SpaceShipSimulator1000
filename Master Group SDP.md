@@ -1,4 +1,6 @@
 ﻿Software Development Process (SDP)
+Team Apollo - Michael Molineaux, Isaac Zheng, Jacob Irace, Grant Kopczenski
+CS 461
 
 [Principles](#_2s13ohyeqgb7)
 [Process](#_dv87m3vones8)
