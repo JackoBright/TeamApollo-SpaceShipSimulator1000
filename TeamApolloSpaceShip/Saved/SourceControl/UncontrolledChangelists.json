@@ -5,6 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/FinalProject/TeamApollo-SpaceShipSimulator1000/TeamApolloSpaceShip/Content/ShipController.uasset",
+				"C:/FinalProject/TeamApollo-SpaceShipSimulator1000/TeamApolloSpaceShip/Content/ShipCharacter.uasset",
+				"C:/FinalProject/TeamApollo-SpaceShipSimulator1000/TeamApolloSpaceShip/Content/NewInputMappingContext.uasset",
+				"C:/FinalProject/TeamApollo-SpaceShipSimulator1000/TeamApolloSpaceShip/Content/MoveForward.uasset",
+				"C:/FinalProject/TeamApollo-SpaceShipSimulator1000/TeamApolloSpaceShip/Content/DefaultGameMode.uasset",
 				"C:/Final Project/TeamApollo-SpaceShipSimulator1000/TeamApolloSpaceShip/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
 			]
 		}
