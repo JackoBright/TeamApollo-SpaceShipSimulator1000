@@ -1505,3 +1505,170 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.03.13-08.23.13:857][228]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
 [2024.03.13-08.23.15:220][282]LogDebuggerCommands: Repeating last play command: Standalone Game
 [2024.03.13-08.23.15:240][282]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2024.03.13-08.27.00:098][588]LogSlate: Warning: Unable to rasterize '../../../Engine/Content/Editor/Slate/Starship/AssetIcons/SpecularProfile_64.svg'. File could not be found
+[2024.03.13-08.27.08:495][127]LogContentBrowser: Deferred new asset file creation: NewInputAction
+[2024.03.13-08.27.08:509][127]LogContentBrowser: Creating deferred item: NewInputAction
+[2024.03.13-08.27.08:528][128]LogContentBrowser: Renaming the item being created (Deferred Item: NewInputAction).
+[2024.03.13-08.27.25:052][913]LogContentBrowser: Attempting asset rename: NewInputAction -> NewInputAction_Gyrostabilizers
+[2024.03.13-08.27.25:056][913]LogContentBrowser: End creating deferred item NewInputAction
+[2024.03.13-08.27.35:806][452]LogContentBrowser: Attempting asset rename: NewInputAction_Gyrostabilizers -> InputAction_Gyrostabilizers
+[2024.03.13-08.27.35:875][452]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.13-08.27.35:927][452]LogSavePackage: Moving output files for package: /Game/ThrusterIA/InputAction_Gyrostabilizers
+[2024.03.13-08.27.35:927][452]LogSavePackage: Moving 'C:/Users/jacob/Documents/GitHub/TeamApollo-SpaceShipSimulator1000/TeamApolloSpaceShip/Saved/InputAction_Gyrostabilizers91B254DC45CC1536D61076BB4CDD4F92.tmp' to 'C:/Users/jacob/Documents/GitHub/TeamApollo-SpaceShipSimulator1000/TeamApolloSpaceShip/Content/ThrusterIA/InputAction_Gyrostabilizers.uasset'
+[2024.03.13-08.27.35:936][452]LogFileHelpers: InternalPromptForCheckoutAndSave took 60 ms (total: 2.39 sec)
+[2024.03.13-08.27.35:959][452]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2024.03.13-08.27.35:971][452]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2024.03.13-08.27.35:979][452]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2024.03.13-08.27.35:980][452]AssetCheck: New page: Asset Save: InputAction_Gyrostabilizers
+[2024.03.13-08.27.35:980][452]LogContentValidation: Display: Validating /Script/EnhancedInput.InputAction /Game/ThrusterIA/InputAction_Gyrostabilizers.InputAction_Gyrostabilizers
+[2024.03.13-08.27.37:955][549]LogAssetEditorSubsystem: Opening Asset editor for InputAction /Game/ThrusterIA/InputAction_Gyrostabilizers.InputAction_Gyrostabilizers
+[2024.03.13-08.28.09:794][745]LogAssetEditorSubsystem: Opening Asset editor for InputMappingContext /Game/NewInputMappingContext.NewInputMappingContext
+[2024.03.13-08.28.21:387][252]LogSlate: Took 0.000131 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.03.13-08.29.13:194][615]LogHttp: Warning: 0000097F86DA6E00: request failed, libcurl error: 65 (Send failed since rewinding of the data stream failed)
+[2024.03.13-08.29.13:194][615]LogHttp: Warning: 0000097F86DA6E00: libcurl info message cache 0 (Found bundle for host: 0x97f0e1700f0 [serially])
+[2024.03.13-08.29.13:194][615]LogHttp: Warning: 0000097F86DA6E00: libcurl info message cache 1 (Re-using existing connection with host datarouter.ol.epicgames.com)
+[2024.03.13-08.29.13:194][615]LogHttp: Warning: 0000097F86DA6E00: libcurl info message cache 2 (We are completely uploaded and fine)
+[2024.03.13-08.29.13:194][615]LogHttp: Warning: 0000097F86DA6E00: libcurl info message cache 3 (TLSv1.2 (IN), TLS alert, close notify (256):)
+[2024.03.13-08.29.13:194][615]LogHttp: Warning: 0000097F86DA6E00: libcurl info message cache 4 (Connection died, retrying a fresh connect (retry count: 1))
+[2024.03.13-08.29.13:194][615]LogHttp: Warning: 0000097F86DA6E00: libcurl info message cache 5 (state.rewindbeforesend = TRUE)
+[2024.03.13-08.29.13:194][615]LogHttp: Warning: 0000097F86DA6E00: libcurl info message cache 6 (Closing connection)
+[2024.03.13-08.29.13:194][615]LogHttp: Warning: 0000097F86DA6E00: libcurl info message cache 7 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2024.03.13-08.29.13:194][615]LogHttp: Warning: 0000097F86DA6E00: libcurl info message cache 8 (Issue another request to this URL: 'https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B55902417-41C0-C4C5-F4B3-B280457517FA%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=93072fb24136401a5091f6a0fa7e5e59%7Cc901e3d615e34588b76700707548c9b3%7C157270e7-1942-4ad8-a680-f58fec789552&AppEnvironment=datacollector-binary&UploadType=eteventstream')
+[2024.03.13-08.29.13:194][615]LogHttp: Warning: 0000097F86DA6E00: libcurl info message cache 9 (  Trying 52.203.167.68:443...)
+[2024.03.13-08.29.13:194][615]LogHttp: Warning: 0000097F86DA6E00: libcurl info message cache 10 (Connected to datarouter.ol.epicgames.com (52.203.167.68) port 443)
+[2024.03.13-08.29.13:194][615]LogHttp: Warning: 0000097F86DA6E00: libcurl info message cache 11 (ALPN: curl offers http/1.1)
+[2024.03.13-08.29.13:194][615]LogHttp: Warning: 0000097F86DA6E00: libcurl info message cache 12 (SSL reusing session ID)
+[2024.03.13-08.29.13:194][615]LogHttp: Warning: 0000097F86DA6E00: libcurl info message cache 13 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2024.03.13-08.29.13:194][615]LogHttp: Warning: 0000097F86DA6E00: libcurl info message cache 14 (TLSv1.3 (IN), TLS handshake, Server hello (2):)
+[2024.03.13-08.29.13:194][615]LogHttp: Warning: 0000097F86DA6E00: libcurl info message cache 15 (TLSv1.2 (IN), TLS handshake, Certificate (11):)
+[2024.03.13-08.29.13:194][615]LogHttp: Warning: 0000097F86DA6E00: libcurl info message cache 16 (TLSv1.2 (IN), TLS handshake, Server key exchange (12):)
+[2024.03.13-08.29.13:194][615]LogHttp: Warning: 0000097F86DA6E00: libcurl info message cache 17 (TLSv1.2 (IN), TLS handshake, Server finished (14):)
+[2024.03.13-08.29.13:195][615]LogHttp: Warning: 0000097F86DA6E00: libcurl info message cache 18 (TLSv1.2 (OUT), TLS handshake, Client key exchange (16):)
+[2024.03.13-08.29.13:195][615]LogHttp: Warning: 0000097F86DA6E00: libcurl info message cache 19 (TLSv1.2 (OUT), TLS change cipher, Change cipher spec (1):)
+[2024.03.13-08.29.13:195][615]LogHttp: Warning: 0000097F86DA6E00: libcurl info message cache 20 (TLSv1.2 (OUT), TLS handshake, Finished (20):)
+[2024.03.13-08.29.13:195][615]LogHttp: Warning: 0000097F86DA6E00: libcurl info message cache 21 (TLSv1.2 (IN), TLS handshake, Finished (20):)
+[2024.03.13-08.29.13:195][615]LogHttp: Warning: 0000097F86DA6E00: libcurl info message cache 22 (old SSL session ID is stale, removing)
+[2024.03.13-08.29.13:195][615]LogHttp: Warning: 0000097F86DA6E00: libcurl info message cache 23 (SSL connection using TLSv1.2 / ECDHE-RSA-AES128-GCM-SHA256)
+[2024.03.13-08.29.13:195][615]LogHttp: Warning: 0000097F86DA6E00: libcurl info message cache 24 (ALPN: server accepted http/1.1)
+[2024.03.13-08.29.13:195][615]LogHttp: Warning: 0000097F86DA6E00: libcurl info message cache 25 (Server certificate:)
+[2024.03.13-08.29.13:195][615]LogHttp: Warning: 0000097F86DA6E00: libcurl info message cache 26 ( subject: CN=datarouter.cfef.live.use1a.on.epicgames.com)
+[2024.03.13-08.29.13:195][615]LogHttp: Warning: 0000097F86DA6E00: libcurl info message cache 27 ( start date: Mar  4 00:00:00 2024 GMT)
+[2024.03.13-08.29.13:195][615]LogHttp: Warning: 0000097F86DA6E00: libcurl info message cache 28 ( expire date: Apr  2 23:59:59 2025 GMT)
+[2024.03.13-08.29.13:195][615]LogHttp: Warning: 0000097F86DA6E00: libcurl info message cache 29 ( subjectAltName: host "datarouter.ol.epicgames.com" matched cert's "datarouter.ol.epicgames.com")
+[2024.03.13-08.29.13:195][615]LogHttp: Warning: 0000097F86DA6E00: libcurl info message cache 30 ( issuer: C=US; O=Amazon; CN=Amazon RSA 2048 M03)
+[2024.03.13-08.29.13:195][615]LogHttp: Warning: 0000097F86DA6E00: libcurl info message cache 31 ( SSL certificate verify ok.)
+[2024.03.13-08.29.13:195][615]LogHttp: Warning: 0000097F86DA6E00: libcurl info message cache 32 (using HTTP/1.1)
+[2024.03.13-08.29.13:195][615]LogHttp: Warning: 0000097F86DA6E00: libcurl info message cache 33 (necessary data rewind wasn't possible)
+[2024.03.13-08.29.13:195][615]LogHttp: Warning: 0000097F86DA6E00: libcurl info message cache 34 (Closing connection)
+[2024.03.13-08.29.13:195][615]LogHttp: Warning: 0000097F86DA6E00: libcurl info message cache 35 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2024.03.13-08.29.13:195][615]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B55902417-41C0-C4C5-F4B3-B280457517FA%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=93072fb24136401a5091f6a0fa7e5e59%7Cc901e3d615e34588b76700707548c9b3%7C157270e7-1942-4ad8-a680-f58fec789552&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.03.13-08.31.11:504][542]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.13-08.31.11:627][542]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ShipCharacter" FILE="C:/Users/jacob/Documents/GitHub/TeamApollo-SpaceShipSimulator1000/TeamApolloSpaceShip/Content/ShipCharacter.uasset" SILENT=true
+[2024.03.13-08.31.11:649][542]LogSavePackage: Moving output files for package: /Game/ShipCharacter
+[2024.03.13-08.31.11:649][542]LogSavePackage: Moving 'C:/Users/jacob/Documents/GitHub/TeamApollo-SpaceShipSimulator1000/TeamApolloSpaceShip/Saved/ShipCharacter8D1A466249A5C5309DAA108C9ED31302.tmp' to 'C:/Users/jacob/Documents/GitHub/TeamApollo-SpaceShipSimulator1000/TeamApolloSpaceShip/Content/ShipCharacter.uasset'
+[2024.03.13-08.31.11:658][542]LogFileHelpers: InternalPromptForCheckoutAndSave took 153 ms (total: 2.55 sec)
+[2024.03.13-08.31.11:659][542]AssetCheck: New page: Asset Save: ShipCharacter
+[2024.03.13-08.31.11:659][542]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ShipCharacter.ShipCharacter
+[2024.03.13-08.31.15:702][750]LogDebuggerCommands: Repeating last play command: Standalone Game
+[2024.03.13-08.31.15:723][750]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2024.03.13-08.31.17:176][750]LogSlate: Window 'Save Content' being destroyed
+[2024.03.13-08.31.17:186][750]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.13-08.31.17:244][750]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewInputMappingContext" FILE="C:/Users/jacob/Documents/GitHub/TeamApollo-SpaceShipSimulator1000/TeamApolloSpaceShip/Content/NewInputMappingContext.uasset" SILENT=true
+[2024.03.13-08.31.17:245][750]LogSavePackage: Moving output files for package: /Game/NewInputMappingContext
+[2024.03.13-08.31.17:245][750]LogSavePackage: Moving 'C:/Users/jacob/Documents/GitHub/TeamApollo-SpaceShipSimulator1000/TeamApolloSpaceShip/Saved/NewInputMappingContext0EFDECA74B4C9F79E03EADB6247759DE.tmp' to 'C:/Users/jacob/Documents/GitHub/TeamApollo-SpaceShipSimulator1000/TeamApolloSpaceShip/Content/NewInputMappingContext.uasset'
+[2024.03.13-08.31.17:255][750]LogFileHelpers: InternalPromptForCheckoutAndSave took 68 ms (total: 2.61 sec)
+[2024.03.13-08.31.17:271][751]AssetCheck: New page: Asset Save: NewInputMappingContext
+[2024.03.13-08.31.17:273][751]LogContentValidation: Display: Validating /Script/EnhancedInput.InputMappingContext /Game/NewInputMappingContext.NewInputMappingContext
+[2024.03.13-08.31.41:757][875]BlueprintLog: New page: Compile ShipCharacter
+[2024.03.13-08.31.41:807][875]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2024.03.13-08.31.43:916][972]LogDebuggerCommands: Repeating last play command: Standalone Game
+[2024.03.13-08.31.43:938][972]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2024.03.13-08.31.45:575][ 30]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2024.03.13-08.32.29:085][410]LogDebuggerCommands: Repeating last play command: Standalone Game
+[2024.03.13-08.32.29:107][410]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2024.03.13-08.32.30:312][410]LogSlate: Window 'Save Content' being destroyed
+[2024.03.13-08.32.30:321][410]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.13-08.32.30:440][410]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ShipCharacter" FILE="C:/Users/jacob/Documents/GitHub/TeamApollo-SpaceShipSimulator1000/TeamApolloSpaceShip/Content/ShipCharacter.uasset" SILENT=true
+[2024.03.13-08.32.30:462][410]LogSavePackage: Moving output files for package: /Game/ShipCharacter
+[2024.03.13-08.32.30:462][410]LogSavePackage: Moving 'C:/Users/jacob/Documents/GitHub/TeamApollo-SpaceShipSimulator1000/TeamApolloSpaceShip/Saved/ShipCharacter5D16CFCD490075151B5D7E94E8339F94.tmp' to 'C:/Users/jacob/Documents/GitHub/TeamApollo-SpaceShipSimulator1000/TeamApolloSpaceShip/Content/ShipCharacter.uasset'
+[2024.03.13-08.32.30:471][410]LogFileHelpers: InternalPromptForCheckoutAndSave took 150 ms (total: 2.76 sec)
+[2024.03.13-08.32.30:488][411]AssetCheck: New page: Asset Save: ShipCharacter
+[2024.03.13-08.32.30:488][411]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ShipCharacter.ShipCharacter
+[2024.03.13-08.32.31:590][466]BlueprintLog: New page: Compile ShipCharacter
+[2024.03.13-08.32.31:642][466]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2024.03.13-08.33.14:830][583]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.13-08.33.14:961][583]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ShipCharacter" FILE="C:/Users/jacob/Documents/GitHub/TeamApollo-SpaceShipSimulator1000/TeamApolloSpaceShip/Content/ShipCharacter.uasset" SILENT=true
+[2024.03.13-08.33.14:983][583]LogSavePackage: Moving output files for package: /Game/ShipCharacter
+[2024.03.13-08.33.14:983][583]LogSavePackage: Moving 'C:/Users/jacob/Documents/GitHub/TeamApollo-SpaceShipSimulator1000/TeamApolloSpaceShip/Saved/ShipCharacter636D807A4B8FFADAF7A7549DC310120B.tmp' to 'C:/Users/jacob/Documents/GitHub/TeamApollo-SpaceShipSimulator1000/TeamApolloSpaceShip/Content/ShipCharacter.uasset'
+[2024.03.13-08.33.14:993][583]LogFileHelpers: InternalPromptForCheckoutAndSave took 161 ms (total: 2.93 sec)
+[2024.03.13-08.33.14:993][583]AssetCheck: New page: Asset Save: ShipCharacter
+[2024.03.13-08.33.14:993][583]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ShipCharacter.ShipCharacter
+[2024.03.13-08.33.15:627][620]LogDebuggerCommands: Repeating last play command: Standalone Game
+[2024.03.13-08.33.15:648][620]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2024.03.13-08.33.38:539][101]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.13-08.33.38:673][101]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ShipCharacter" FILE="C:/Users/jacob/Documents/GitHub/TeamApollo-SpaceShipSimulator1000/TeamApolloSpaceShip/Content/ShipCharacter.uasset" SILENT=true
+[2024.03.13-08.33.38:696][101]LogSavePackage: Moving output files for package: /Game/ShipCharacter
+[2024.03.13-08.33.38:696][101]LogSavePackage: Moving 'C:/Users/jacob/Documents/GitHub/TeamApollo-SpaceShipSimulator1000/TeamApolloSpaceShip/Saved/ShipCharacterCAF1B3814B3138B54B905E927C76C132.tmp' to 'C:/Users/jacob/Documents/GitHub/TeamApollo-SpaceShipSimulator1000/TeamApolloSpaceShip/Content/ShipCharacter.uasset'
+[2024.03.13-08.33.38:705][101]LogFileHelpers: InternalPromptForCheckoutAndSave took 165 ms (total: 3.09 sec)
+[2024.03.13-08.33.38:706][101]AssetCheck: New page: Asset Save: ShipCharacter
+[2024.03.13-08.33.38:706][101]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ShipCharacter.ShipCharacter
+[2024.03.13-08.33.39:298][135]LogDebuggerCommands: Repeating last play command: Standalone Game
+[2024.03.13-08.33.39:319][135]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2024.03.13-08.33.40:953][193]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2024.03.13-08.34.03:313][739]LogDebuggerCommands: Repeating last play command: Standalone Game
+[2024.03.13-08.34.03:333][739]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2024.03.13-08.34.04:581][739]LogSlate: Window 'Save Content' being destroyed
+[2024.03.13-08.34.04:590][739]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.13-08.34.04:715][739]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ShipCharacter" FILE="C:/Users/jacob/Documents/GitHub/TeamApollo-SpaceShipSimulator1000/TeamApolloSpaceShip/Content/ShipCharacter.uasset" SILENT=true
+[2024.03.13-08.34.04:737][739]LogSavePackage: Moving output files for package: /Game/ShipCharacter
+[2024.03.13-08.34.04:738][739]LogSavePackage: Moving 'C:/Users/jacob/Documents/GitHub/TeamApollo-SpaceShipSimulator1000/TeamApolloSpaceShip/Saved/ShipCharacter540B790C48198A65820A5F967FCF4235.tmp' to 'C:/Users/jacob/Documents/GitHub/TeamApollo-SpaceShipSimulator1000/TeamApolloSpaceShip/Content/ShipCharacter.uasset'
+[2024.03.13-08.34.04:747][739]LogFileHelpers: InternalPromptForCheckoutAndSave took 156 ms (total: 3.25 sec)
+[2024.03.13-08.34.04:771][740]AssetCheck: New page: Asset Save: ShipCharacter
+[2024.03.13-08.34.04:772][740]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ShipCharacter.ShipCharacter
+[2024.03.13-08.34.06:390][795]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2024.03.13-08.34.23:957][ 32]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.13-08.34.24:081][ 32]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ShipCharacter" FILE="C:/Users/jacob/Documents/GitHub/TeamApollo-SpaceShipSimulator1000/TeamApolloSpaceShip/Content/ShipCharacter.uasset" SILENT=true
+[2024.03.13-08.34.24:103][ 32]LogSavePackage: Moving output files for package: /Game/ShipCharacter
+[2024.03.13-08.34.24:103][ 32]LogSavePackage: Moving 'C:/Users/jacob/Documents/GitHub/TeamApollo-SpaceShipSimulator1000/TeamApolloSpaceShip/Saved/ShipCharacterDAAB90884646D8F7BA4011BDB9AAE1DC.tmp' to 'C:/Users/jacob/Documents/GitHub/TeamApollo-SpaceShipSimulator1000/TeamApolloSpaceShip/Content/ShipCharacter.uasset'
+[2024.03.13-08.34.24:112][ 32]LogFileHelpers: InternalPromptForCheckoutAndSave took 154 ms (total: 3.40 sec)
+[2024.03.13-08.34.24:113][ 32]AssetCheck: New page: Asset Save: ShipCharacter
+[2024.03.13-08.34.24:113][ 32]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ShipCharacter.ShipCharacter
+[2024.03.13-08.34.24:298][ 46]LogDebuggerCommands: Repeating last play command: Standalone Game
+[2024.03.13-08.34.24:317][ 46]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2024.03.13-08.34.42:939][284]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.13-08.34.43:066][284]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ShipCharacter" FILE="C:/Users/jacob/Documents/GitHub/TeamApollo-SpaceShipSimulator1000/TeamApolloSpaceShip/Content/ShipCharacter.uasset" SILENT=true
+[2024.03.13-08.34.43:088][284]LogSavePackage: Moving output files for package: /Game/ShipCharacter
+[2024.03.13-08.34.43:089][284]LogSavePackage: Moving 'C:/Users/jacob/Documents/GitHub/TeamApollo-SpaceShipSimulator1000/TeamApolloSpaceShip/Saved/ShipCharacter1EADC2F5430A1123E8DA99BC710B3848.tmp' to 'C:/Users/jacob/Documents/GitHub/TeamApollo-SpaceShipSimulator1000/TeamApolloSpaceShip/Content/ShipCharacter.uasset'
+[2024.03.13-08.34.43:098][284]LogFileHelpers: InternalPromptForCheckoutAndSave took 158 ms (total: 3.56 sec)
+[2024.03.13-08.34.43:099][284]AssetCheck: New page: Asset Save: ShipCharacter
+[2024.03.13-08.34.43:099][284]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ShipCharacter.ShipCharacter
+[2024.03.13-08.34.43:548][309]LogDebuggerCommands: Repeating last play command: Standalone Game
+[2024.03.13-08.34.43:568][309]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2024.03.13-08.34.45:193][367]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2024.03.13-08.35.08:442][442]BlueprintLog: New page: Compile ShipCharacter
+[2024.03.13-08.35.08:490][442]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2024.03.13-08.35.09:458][487]LogDebuggerCommands: Repeating last play command: Standalone Game
+[2024.03.13-08.35.09:478][487]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2024.03.13-08.35.31:163][691]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.13-08.35.31:296][691]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ShipCharacter" FILE="C:/Users/jacob/Documents/GitHub/TeamApollo-SpaceShipSimulator1000/TeamApolloSpaceShip/Content/ShipCharacter.uasset" SILENT=true
+[2024.03.13-08.35.31:317][691]LogSavePackage: Moving output files for package: /Game/ShipCharacter
+[2024.03.13-08.35.31:318][691]LogSavePackage: Moving 'C:/Users/jacob/Documents/GitHub/TeamApollo-SpaceShipSimulator1000/TeamApolloSpaceShip/Saved/ShipCharacterA9673CCF4B53DD6BB39ED1AC8ED6AE20.tmp' to 'C:/Users/jacob/Documents/GitHub/TeamApollo-SpaceShipSimulator1000/TeamApolloSpaceShip/Content/ShipCharacter.uasset'
+[2024.03.13-08.35.31:326][691]LogFileHelpers: InternalPromptForCheckoutAndSave took 163 ms (total: 3.72 sec)
+[2024.03.13-08.35.31:327][691]AssetCheck: New page: Asset Save: ShipCharacter
+[2024.03.13-08.35.31:327][691]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ShipCharacter.ShipCharacter
+[2024.03.13-08.35.32:349][745]BlueprintLog: New page: Compile ShipCharacter
+[2024.03.13-08.35.32:394][745]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2024.03.13-08.35.33:495][797]LogDebuggerCommands: Repeating last play command: Standalone Game
+[2024.03.13-08.35.33:517][797]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2024.03.13-08.35.35:150][855]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2024.03.13-08.36.06:622][125]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.13-08.36.06:749][125]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ShipCharacter" FILE="C:/Users/jacob/Documents/GitHub/TeamApollo-SpaceShipSimulator1000/TeamApolloSpaceShip/Content/ShipCharacter.uasset" SILENT=true
+[2024.03.13-08.36.06:771][125]LogSavePackage: Moving output files for package: /Game/ShipCharacter
+[2024.03.13-08.36.06:772][125]LogSavePackage: Moving 'C:/Users/jacob/Documents/GitHub/TeamApollo-SpaceShipSimulator1000/TeamApolloSpaceShip/Saved/ShipCharacter74763815480507933A3D629AB5786F7A.tmp' to 'C:/Users/jacob/Documents/GitHub/TeamApollo-SpaceShipSimulator1000/TeamApolloSpaceShip/Content/ShipCharacter.uasset'
+[2024.03.13-08.36.06:781][125]LogFileHelpers: InternalPromptForCheckoutAndSave took 158 ms (total: 3.88 sec)
+[2024.03.13-08.36.06:782][125]AssetCheck: New page: Asset Save: ShipCharacter
+[2024.03.13-08.36.06:782][125]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ShipCharacter.ShipCharacter
+[2024.03.13-08.36.07:807][180]BlueprintLog: New page: Compile ShipCharacter
+[2024.03.13-08.36.07:852][180]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2024.03.13-08.36.08:554][209]LogDebuggerCommands: Repeating last play command: Standalone Game
+[2024.03.13-08.36.08:575][209]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
