@@ -1,0 +1,55 @@
+[+] Containers:
+ |- [+] Container: /Game/solar-system/Title_Screen
+ |   |- [+] ActorDescs:
+ |   |   |- Guid:31B406A3473C241E07BDF3BDF7EFA769 BaseClass: NativeClass:/Script/Engine.WorldDataLayers Name:WorldDataLayers Label:WorldDataLayers SpatiallyLoaded:0 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:1
+ |   |   |- Guid:E24E86F24CDF8960E8B50FA5FA950412 BaseClass: NativeClass:/Script/CinematicCamera.CineCameraActor Name:CineCameraActor_UAID_04421A0CF84508DD01_1302037951 Label:Menu Pan SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |- [+] Clusters:
+ |   |   |- [+] [  0]
+ |   |   |   |- Guid:31B406A3473C241E07BDF3BDF7EFA769 BaseClass: NativeClass:/Script/Engine.WorldDataLayers Name:WorldDataLayers Label:WorldDataLayers SpatiallyLoaded:0 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:1
+ |   |   |- [+] [  1]
+ |   |   |   |- Guid:E24E86F24CDF8960E8B50FA5FA950412 BaseClass: NativeClass:/Script/CinematicCamera.CineCameraActor Name:CineCameraActor_UAID_04421A0CF84508DD01_1302037951 Label:Menu Pan SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |- ContainerInstances:
+ |- [+] MainContainer:
+ |   |-        ID: 00000000000000000000000000000000
+ |   |-  ParentID: 00000000000000000000000000000000
+ |   |-    Bounds: IsValid=false, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000)
+ |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |   |- Container: /Game/solar-system/Title_Screen
+----------------------------------------------------------------------------------------------------------------
+Title_Screen - Persistent Level
+----------------------------------------------------------------------------------------------------------------
+[+] Content of Title_Screen Persistent Level
+ |- Always loaded Actor Count: 8 
+ |- Actor Path: /Game/solar-system/Title_Screen.Title_Screen:PersistentLevel.ChaosDebugDrawActor
+ |- Actor Package: /Game/solar-system/Title_Screen
+ |- Actor Path: /Game/solar-system/Title_Screen.Title_Screen:PersistentLevel.CineCameraActor_UAID_04421A0CF84508DD01_1302037951
+ |- Actor Package: /Game/__ExternalActors__/solar-system/Title_Screen/A/D8/OS88RY1B1GBRJ19GK4AWKT
+ |- Actor Path: /Game/solar-system/Title_Screen.Title_Screen:PersistentLevel.DefaultPhysicsVolume_0
+ |- Actor Package: /Game/solar-system/Title_Screen
+ |- Actor Path: /Game/solar-system/Title_Screen.Title_Screen:PersistentLevel.GameplayDebuggerPlayerManager_0
+ |- Actor Package: /Game/solar-system/Title_Screen
+ |- Actor Path: /Game/solar-system/Title_Screen.Title_Screen:PersistentLevel.Title_Screen_C_80
+ |- Actor Package: /Game/solar-system/Title_Screen
+ |- Actor Path: /Game/solar-system/Title_Screen.Title_Screen:PersistentLevel.WorldDataLayers
+ |- Actor Package: /Game/__ExternalActors__/solar-system/Title_Screen/5/UR/PAOW30L3ZILOGEYNLNYQUV
+ |- Actor Path: /Game/solar-system/Title_Screen.Title_Screen:PersistentLevel.WorldPartitionReplay
+ |- Actor Package: /Game/solar-system/Title_Screen
+ |- Actor Path: /Game/solar-system/Title_Screen.Title_Screen:PersistentLevel.WorldSettings
+ |- Actor Package: /Game/solar-system/Title_Screen
+
+----------------------------------------------------------------------------------------------------------------
+Title_Screen - Runtime Spatial Hash - Streaming Grid - MainGrid
+----------------------------------------------------------------------------------------------------------------
+            Origin: X=0.000 Y=0.000 Z=0.000
+         Cell Size: 12800
+      World Bounds: IsValid=false, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000)
+     Loading Range: 25600.00
+Block Slow Loading: No
+ ClientOnlyVisible: No
+            Origin: X=0.000 Y=0.000 Z=0.000
+
+[+] Grid Levels: 1
+ |- Level  0: Cell Count    0 | Cell Size   12800 | Actor Count    0 (0.0%)
+
+[+] Content of Grid Level 0
+
